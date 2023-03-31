@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab07_Trufanov_8K93</string>
+    <string name="score_text">Число правильных ответов: %1d\nЧисло неправильных ответов: %2d</string>
+    <string name="operation_text">Выберите операцию:</string>
+</resources>
